@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{28A565BA-0495-4CDF-8B18-7DBD31435997}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Image_ProcessingPackage</RootNamespace>
+    <AssemblyName>Image_ProcessingPackage</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Help.Designer.cs">
+      <DependentUpon>About_Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnhancementsOperations.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GemotricTransform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GemotricTransform.Designer.cs">
+      <DependentUpon>GemotricTransform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoemetricTransformations.cs" />
+    <Compile Include="Guassian filter Option1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guassian filter Option1.Designer.cs">
+      <DependentUpon>Guassian filter Option1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuassianFilter.cs" />
+    <Compile Include="GuassianFilterOption2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuassianFilterOption2.Designer.cs">
+      <DependentUpon>GuassianFilterOption2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Image Enhancement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Image Enhancement.Designer.cs">
+      <DependentUpon>Image Enhancement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageOperations.cs" />
+    <Compile Include="Image_Algebra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Image_Algebra.Designer.cs">
+      <DependentUpon>Image_Algebra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KircshMatrcies.cs" />
+    <Compile Include="Kircsh_filter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kircsh_filter.Designer.cs">
+      <DependentUpon>Kircsh_filter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laplacian Filter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laplacian Filter.Designer.cs">
+      <DependentUpon>Laplacian Filter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="linearFilter.cs" />
+    <Compile Include="Mean.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mean.Designer.cs">
+      <DependentUpon>Mean.cs</DependentUpon>
+    </Compile>
+    <Compile Include="meanFilter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="readimage.cs" />
+    <EmbeddedResource Include="About_Help.resx">
+      <DependentUpon>About_Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GemotricTransform.resx">
+      <DependentUpon>GemotricTransform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guassian filter Option1.resx">
+      <DependentUpon>Guassian filter Option1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuassianFilterOption2.resx">
+      <DependentUpon>GuassianFilterOption2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Image Enhancement.resx">
+      <DependentUpon>Image Enhancement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Image_Algebra.resx">
+      <DependentUpon>Image_Algebra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kircsh_filter.resx">
+      <DependentUpon>Kircsh_filter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laplacian Filter.resx">
+      <DependentUpon>Laplacian Filter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mean.resx">
+      <DependentUpon>Mean.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

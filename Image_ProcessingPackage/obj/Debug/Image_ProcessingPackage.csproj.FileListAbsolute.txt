@@ -1,0 +1,75 @@
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe.config
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Form1.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GemotricTransform.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Guassian_filter.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GuassianFilterOption2.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Enhancement.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Algebra.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Kircsh_filter.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Laplacian_Filter.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Mean.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Properties.Resources.resources
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csproj.GenerateResource.Cache
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.pdb
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.exe
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.pdb
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csprojResolveAssemblyReference.cache
+C:\Users\nour\Documents\Visual Studio 2012\Projects\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.About.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe.config
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.pdb
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.About.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Form1.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GemotricTransform.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Guassian_filter.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GuassianFilterOption2.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Enhancement.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Algebra.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Kircsh_filter.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Laplacian_Filter.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Mean.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Properties.Resources.resources
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csproj.GenerateResource.Cache
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.exe
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.pdb
+C:\Users\nour\Desktop\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csprojResolveAssemblyReference.cache
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe.config
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.exe
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.pdb
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.pdb
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csprojResolveAssemblyReference.cache
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.About.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Form1.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GemotricTransform.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Guassian_filter.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GuassianFilterOption2.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Enhancement.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Algebra.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Kircsh_filter.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Laplacian_Filter.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Mean.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Properties.Resources.resources
+E:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csproj.GenerateResource.Cache
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe.config
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.pdb
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csprojResolveAssemblyReference.cache
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.About.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Form1.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GemotricTransform.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Guassian_filter.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.GuassianFilterOption2.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Enhancement.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Image_Algebra.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Kircsh_filter.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Laplacian_Filter.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Mean.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.Properties.Resources.resources
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.csproj.GenerateResource.Cache
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.exe
+F:\CS\First Term\image processing\sections\Tasks\ImagePackage2014\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.pdb
+C:\Users\nourhan\Source\Repos\Image_ProcessingPackage\Image_ProcessingPackage\bin\Debug\Image_ProcessingPackage.exe.config
+C:\Users\nourhan\Source\Repos\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.exe
+C:\Users\nourhan\Source\Repos\Image_ProcessingPackage\Image_ProcessingPackage\obj\Debug\Image_ProcessingPackage.pdb
